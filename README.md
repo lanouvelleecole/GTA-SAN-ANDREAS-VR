@@ -1,8 +1,8 @@
 # GTA SAN ANDREAS VR
 
-<div style="text-align:center;">
+<p align="center">
   <img src="gta_github_logo.jpg" alt="GTA San Andreas Logo">
-</div>
+</p>
 
 ## Hi, human! 🎮
 
