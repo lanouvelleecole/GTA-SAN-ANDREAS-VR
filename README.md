@@ -4,7 +4,7 @@
   <img src="gta_github_logo.jpg" alt="GTA San Andreas Logo">
 </p>
 
-## Hi, human avatar ;-) ! 🎮
+## Hi, amigo vato loco ;-) ! 🎮
 
 Welcome to the world of Grand Theft Auto: San Andreas in First Person !
 
