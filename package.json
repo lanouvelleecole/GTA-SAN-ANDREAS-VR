@@ -1,0 +1,15 @@
+{
+  "name": "gta_san_andreas_fp_github",
+  "version": "1.0.0",
+  "description": "Permet de push ce repo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -m \"I'm a bigger pusher than Ice-T homie !!!\" && git push"
+  },
+  "author": "",
+  "license": "ISC"
+}
